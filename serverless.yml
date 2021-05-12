@@ -38,7 +38,7 @@ provider:
   logRetentionInDays: 30
   environment:
     Provider: "https://bsc-dataseed.binance.org/"
-    EggAddress: "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6"
+    BctrmAddress: "0x2eFE591E96ad36Aa3Bb769D486aFD713ce2F91B4"
     BurnAddress: "0x000000000000000000000000000000000000dead"
 
   iamRoleStatements:
