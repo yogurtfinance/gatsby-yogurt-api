@@ -1,4 +1,4 @@
 export const ContractAddresses = {
-    masterChef: "0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57",
-    multiCall: "0x1ee38d535d541c55c9dae27b12edf090c608e6fb",
+    masterChef: "0x93062c7cdF34aD634770468822b6eCAA86C08d37",
+    multiCall: "0xef03bD3012D0455D3D2bd5195752a0FA088E8c0f",
 }

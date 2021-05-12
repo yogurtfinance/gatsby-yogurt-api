@@ -1,5 +1,5 @@
 export const TokenSymbols = {
-    "EGG": "EGG",
+    "BACTERIUM" : "BCTRM",
     "BNB": "BNB",
     "BUSD": "BUSD",
     "USDC": "USDC",
