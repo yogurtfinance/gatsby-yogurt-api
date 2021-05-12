@@ -1,10 +1,10 @@
 import {buildResponse, failure} from "./response-lib";
 import Web3 from "web3";
-import eggABI from "./abi/eggToken.json";
+import eggABI from "./abi/bctrmToken.json";
 import BigNumber from "bignumber.js";
 
 const web3 = new Web3(process.env.Provider);
-const contract = new web3.eth.Contract(eggABI, process.env.EggAddress);
+const contract = new web3.eth.Contract(eggABI, process.env.BctrmAddress);
 
 export async function getTotalSupply() {
     try {
